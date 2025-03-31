@@ -1,0 +1,20 @@
+#miparrafo {
+  color: red;
+  font-family: verdana;
+}
+li > a {
+  color: rgb(74, 0, 57) !important;
+}
+.boton {
+  background-color: blueviolet;
+}
+li > a {
+  color: yellow;
+}
+.boton:hover {
+  background-color: chocolate;
+}
+.form {
+  max-width: 330px;
+  padding: 1rem;
+}

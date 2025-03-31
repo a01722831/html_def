@@ -1,0 +1,23 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/FrumenOlivas/tc2005B_html#readme",
+  "bugs": {
+    "url": "https://github.com/FrumenOlivas/tc2005B_html/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrumenOlivas/tc2005B_html.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
